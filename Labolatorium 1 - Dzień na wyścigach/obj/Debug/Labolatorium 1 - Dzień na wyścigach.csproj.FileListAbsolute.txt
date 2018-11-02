@@ -1,0 +1,9 @@
+C:\Users\Filip\Documents\C# Projects\Labolatorium 1 - Dzień na wyścigach\Labolatorium 1 - Dzień na wyścigach\obj\Debug\Labolatorium 1 - Dzień na wyścigach.csprojAssemblyReference.cache
+C:\Users\Filip\Documents\C# Projects\Labolatorium 1 - Dzień na wyścigach\Labolatorium 1 - Dzień na wyścigach\obj\Debug\Labolatorium_1___Dzień_na_wyścigach.Form1.resources
+C:\Users\Filip\Documents\C# Projects\Labolatorium 1 - Dzień na wyścigach\Labolatorium 1 - Dzień na wyścigach\obj\Debug\Labolatorium_1___Dzień_na_wyścigach.Properties.Resources.resources
+C:\Users\Filip\Documents\C# Projects\Labolatorium 1 - Dzień na wyścigach\Labolatorium 1 - Dzień na wyścigach\obj\Debug\Labolatorium 1 - Dzień na wyścigach.csproj.GenerateResource.cache
+C:\Users\Filip\Documents\C# Projects\Labolatorium 1 - Dzień na wyścigach\Labolatorium 1 - Dzień na wyścigach\obj\Debug\Labolatorium 1 - Dzień na wyścigach.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Documents\C# Projects\Labolatorium 1 - Dzień na wyścigach\Labolatorium 1 - Dzień na wyścigach\bin\Debug\Labolatorium 1 - Dzień na wyścigach.exe
+C:\Users\Filip\Documents\C# Projects\Labolatorium 1 - Dzień na wyścigach\Labolatorium 1 - Dzień na wyścigach\bin\Debug\Labolatorium 1 - Dzień na wyścigach.pdb
+C:\Users\Filip\Documents\C# Projects\Labolatorium 1 - Dzień na wyścigach\Labolatorium 1 - Dzień na wyścigach\obj\Debug\Labolatorium 1 - Dzień na wyścigach.exe
+C:\Users\Filip\Documents\C# Projects\Labolatorium 1 - Dzień na wyścigach\Labolatorium 1 - Dzień na wyścigach\obj\Debug\Labolatorium 1 - Dzień na wyścigach.pdb
